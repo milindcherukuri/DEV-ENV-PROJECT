@@ -1,0 +1,22 @@
+# Environment variables
+.env
+*.env
+**/.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Archives
+*.zip
